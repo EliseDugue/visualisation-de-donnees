@@ -2,14 +2,14 @@ var convert = [
     ['liaison', 'co2'],  
 ]; // tableau qui contiendra toutes les lignes de données
 
-//je la déclare ici pour qu'elle soit globale à tout le script
+// je la déclare ici pour qu'elle soit globale à tout le script
 
 
 $(document).ready(function () { // quand tout est chargé...
 
-    //exécuter tout le code qui est après dans la fonction
+    // exécuter tout le code suit dans la fonction...
 
-    ////////////////////////////// EXTRACTION DES DONNEES  ////////////////////////////////
+    ////////////////////////// EXTRACTION DES DONNEES  ////////////////////////////////
 
 
     var showData = $('#show-data'); // accéder à la balise div show-data
@@ -29,7 +29,7 @@ $(document).ready(function () { // quand tout est chargé...
             co2 = JSONobj[i].fields.tgv_empreinte_co2e_kgco2e_voyageur; // on récupère la valeur du co2 de chaque élément dans le JSON
             liaison = JSONobj[i].fields.liaison; // idem pour le nom du trajet
             row = [liaison, co2]; // on associe les données dans une seule ligne pour le graphique
-            convert.push(row);
+            convert.push(row); // ajouter notre ligne à la dernière ligne du tableau convert
 
         } // fin for i
 
@@ -38,10 +38,10 @@ $(document).ready(function () { // quand tout est chargé...
     showData.text('Loading the JSON file...'); // afficher le texte dans la balise show-data
 
     
-    console.log(convert);
+    console.log(convert); // afficher le tableau convert dans la console
 
 
-    /////////////////////////// VISUALISATION AVEC GOOGLE CHARTS //////////////////////////
+    /////////////////////// VISUALISATION AVEC GOOGLE CHARTS //////////////////////////
 
     // Load the Visualization API and the corechart package.
     google.charts.load('current', { 'packages': ['corechart'] });
@@ -66,9 +66,9 @@ $(document).ready(function () { // quand tout est chargé...
             vAxis: {
                 title: 'kgCO2/voyageur'
             }
-        };
+        }; // fin var options
 
-        // Instantiate and draw our chart, passing in some options.
+        // Instantiate and draw our chart in div chart_div, passing in some options.
         var chart = new google.visualization.ColumnChart(document.getElementById('chart_div'));
         chart.draw(data, options);
 
