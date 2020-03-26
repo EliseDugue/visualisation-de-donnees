@@ -1,5 +1,5 @@
 var convert = [
-    ['liaison', 'CO2 pour un trajet en train', 'CO2 pour un trajet en voiture'],  
+    ['liaison', 'émission de CO2 en kg pour un trajet en train', 'émission de CO2 en kg pour un trajet en voiture'],  
 ]; // tableau qui contiendra toutes les lignes de données
 
 // je la déclare ici pour qu'elle soit globale à tout le script
@@ -39,7 +39,7 @@ $(document).ready(function () { // quand tout est chargé...
         for (let i = 0; i < 108; i++) { // il y a 108 occurrences au total
 
             distance = JSONobj[i].fields.distance; // on récupère la valeur de la dsitance de chaque élément dans le JSON
-            co2_voiture = parseInt(distance) * 0.158; // calcul du co2 pour la distance en voiture
+            co2_voiture = parseInt(distance) * 0.159; // calcul du co2 pour la distance en voiture
             co2_tgv = JSONobj[i].fields.tgv_empreinte_co2e_kgco2e_voyageur; //idem pour le CO2
             liaison = JSONobj[i].fields.liaison; // idem pour le nom du trajet
             row = [liaison, co2_tgv, co2_voiture]; // on associe les données dans une seule ligne pour le graphique
