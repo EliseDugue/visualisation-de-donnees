@@ -1,13 +1,24 @@
-body {
-    margin: 40px;
+.container {
+    margin-top: 5em;
+    margin-bottom: 5em;
+    margin-left: 25em;
+    margin-right: 25em;
 }
 
-#show-data {
-    margin-top: 10px;
-    margin-bottom: 10px;
+#columnchart_material {
+    margin-top: 5em;
+    margin-bottom: 5em;
 }
 
-#show-data {
-    margin-top: 10px;
-    margin-bottom: 10px;
+#infos-calcul {
+    margin-top: 5em;
+}
+
+a{
+    text-decoration: underline;
+    color: black;
+}
+
+body{
+    font-family: 'SF Pro Display','Arial','Roboto', sans-serif;
 }

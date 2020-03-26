@@ -5,10 +5,6 @@
 
     <meta charset="utf8">
 
-    <!-- bootstrap -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
-        integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-
     <script data-require="jquery@2.1.1" data-semver="1.9.1"
         src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 
@@ -27,8 +23,28 @@
 
     <div class="container">
 
-        <div id="show-data"></div>
-        <div id="chart_div"></div>
+        <h1>Histogramme horizontal de l'émisson de CO2 sur les liaisons TGV parcourues en train puis en voiture</h1>
+
+        <div id="columnchart_material"></div>
+
+        <div id="infos_calcul">
+
+            <p>Une belle visualisation qui permet de constater qu'il est <em>beaucoup</em> plus écologique de prendre le train que la voiture !</p><br>
+
+            <h2>Informations sur le calcul des émissions de CO2 pour les trajets en trains</h2>
+            <h4><i>Source : <a href="https://data.sncf.com/explore/dataset/emission-co2-tgv/information/">SNCF</a></i></h4>
+            <p>Estimation calculée de la manière suivante : distance du trajet × émission de CO2 par kilomètre d’un voyageur. La <a href="http://medias.sncf.com/sncfcom/pdf/co2/Information_CO2_des_prestations_de_transport_Methodologie_generale.pdf" target="_blank">méthodologie utilisée par SNCF</a> est conforme au guide méthodologique publié par l’État pour l’information CO2 des prestations de transport. Plus d'informations <a href="http://www.sncf.com/fr/train-emission-co2" target="_blank">ici</a>.</p>
+
+
+            <h2>Informations sur le calcul des émissions de CO2 en fonction de la quantité de carburant (diesel) consommé</h2>
+            <h4><i>Source : <a href="https://ecoscore.be/fr/info/ecoscore/co2" target="_blank">écoscore</a></i></h4>
+
+            <p>1 litre de diesel pèse 835 grammes. Le diesel est composé à 86.2% de carbone (C), ce qui correspond à 720 g de C par litre de diesel. Pour brûler ce C en CO2, 1920 g d'oxygène sont nécessaires. La somme nous donne donc 720 + 1920 = 2640 g de CO2 par litre de diesel.
+            <br>
+            En 2018 selon <a href="https://fr.statista.com/statistiques/486554/consommation-de-carburant-moyenne-voiture-france/" target="_blank">Statista</a>, une voiture diesel consomme 6,01 litres pour 100km.
+            <br>
+            Une voiture qui consomme 6,01 litre/100km va donc émettre 6,01L × 2640 g/L ÷ 100 (par km) = 158,664 g CO2/km soit environ 0,158kg/km.</p>
+        </div>
 
     </div>
 

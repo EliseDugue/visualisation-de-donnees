@@ -1,5 +1,5 @@
 var convert = [
-    ['liaison', 'co2'],  
+    ['liaison', 'CO2 pour un trajet en train', 'CO2 pour un trajet en voiture'],  
 ]; // tableau qui contiendra toutes les lignes de données
 
 // je la déclare ici pour qu'elle soit globale à tout le script
@@ -12,39 +12,52 @@ $(document).ready(function () { // quand tout est chargé...
     ////////////////////////// EXTRACTION DES DONNEES  ////////////////////////////////
 
 
-    var showData = $('#show-data'); // accéder à la balise div show-data
-
     var row = []; // contiendra une ligne de donnée (liaison + émission de CO2)
 
     $.getJSON('emission-co2-tgv.json', function (JSONobj) { // récupérer le fichier JSON
         console.log(JSONobj); // afficher le fichier dans la console
 
-        var co2; // contiendra la valeur d'émission de co2 du trajet TGV
+        var co2_tgv; // contiendra la valeur d'émission de co2 du trajet TGV
         var liaison; // contiendra la chaîne de caractère décrivant le trajet effectué (ex : Paris - Bordeaux)
 
-        // avec ces boucles for, on récupère et assemble les données dont on a besoin dans un tableau
+        var co2_voiture; // contiendra la valeur d'émission de co2 du trajet TGV
+        var distance; // contiendra la distance du trajet entre les 2 villes
+
+        
+    ////////////////////////// TRAITEMENT DES DONNEES  ////////////////////////////////
+
+    // calcul de l'émission CO2 moyenne sur la même distance TGV mais avec une voiture
+
+    /* Pour simplifier les calculs, on se base sur un véhicle diesel qui consomme 6,01
+     litres/100km. Comme démontré, on se base sur une émission de 0,158kg/km. On 
+     multpilie ce chiffre par la distance entre les liaisons (disponible dans le JSON).
+     Par simplicité, on utilise la distance ferrovière entre les deux villes et non la
+     distance sur route. */
+
+    // avec cette boucle for, on récupère et assemble les données dont on a besoin dans un tableau
 
         for (let i = 0; i < 108; i++) { // il y a 108 occurrences au total
 
-            co2 = JSONobj[i].fields.tgv_empreinte_co2e_kgco2e_voyageur; // on récupère la valeur du co2 de chaque élément dans le JSON
+            distance = JSONobj[i].fields.distance; // on récupère la valeur de la dsitance de chaque élément dans le JSON
+            co2_voiture = parseInt(distance) * 0.158; // calcul du co2 pour la distance en voiture
+            co2_tgv = JSONobj[i].fields.tgv_empreinte_co2e_kgco2e_voyageur; //idem pour le CO2
             liaison = JSONobj[i].fields.liaison; // idem pour le nom du trajet
-            row = [liaison, co2]; // on associe les données dans une seule ligne pour le graphique
+            row = [liaison, co2_tgv, co2_voiture]; // on associe les données dans une seule ligne pour le graphique
             convert.push(row); // ajouter notre ligne à la dernière ligne du tableau convert
 
         } // fin for i
 
     }); // fin get JSON
 
-    showData.text('Loading the JSON file...'); // afficher le texte dans la balise show-data
 
-    
     console.log(convert); // afficher le tableau convert dans la console
+
 
 
     /////////////////////// VISUALISATION AVEC GOOGLE CHARTS //////////////////////////
 
-    // Load the Visualization API and the corechart package.
-    google.charts.load('current', { 'packages': ['corechart'] });
+    // Load the Visualization API and the bar package.
+    google.charts.load('current', { 'packages': ['bar'] });
 
     // Set a callback to run when the Google Visualization API is loaded.
     google.charts.setOnLoadCallback(drawChart);
@@ -59,18 +72,24 @@ $(document).ready(function () { // quand tout est chargé...
 
         // Set chart options
         var options = {
-            title: 'Émissions de CO2 par voyageur sur les principales liaisons TGV.',
-            hAxis: {
-                title: 'Liaisons',
-            },
+            bars: 'horizontal', // Required for Material Bar Charts.
+            title: '',
+            width : 1300,
+            height : 2500,
+            axes: {
+                x: {
+                  0: { side: 'top', label: 'kgCO2/voyageur'} // Top x-axis.
+                }
+              },
             vAxis: {
-                title: 'kgCO2/voyageur'
+                title: ''
             }
         }; // fin var options
 
-        // Instantiate and draw our chart in div chart_div, passing in some options.
-        var chart = new google.visualization.ColumnChart(document.getElementById('chart_div'));
-        chart.draw(data, options);
+        // Instantiate and draw our chart in div columnchart_material, passing in some options.
+        var chart = new google.charts.Bar(document.getElementById('columnchart_material'));
+
+        chart.draw(data, google.charts.Bar.convertOptions(options));;
 
     } // fin drawChart
 
