@@ -1,0 +1,1190 @@
+[
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "ed9cb24df47540e76566004dbef0e97c9b038346",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 0.5376000000000001,
+        "distance": 224,
+        "liaison": "Paris - Douai",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "46d9e6773fc20adb6ef1245010971534f0e61c32",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 1.1496,
+        "distance": 479,
+        "liaison": "Paris - La Baule Escoublac",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "76ddec1888912a8b05629350b3d6b98e8a64f8a7",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 1.3944,
+        "distance": 581,
+        "liaison": "Paris - Bordeaux",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "a7bdbf708192a1c1da139d02955e83e2a979b817",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 0.8496,
+        "distance": 354,
+        "liaison": "Paris - Le Creusot",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "627d139f612021ce6c9eab72c64a00e40b8722be",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 1.1496,
+        "distance": 479,
+        "liaison": "Paris - La Rochelle",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "e2e6bed49b24ed3b5768b20113259b6ab7bbd57f",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 1.2144,
+        "distance": 506,
+        "liaison": "Paris - Guingamp",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "ba515bda8610f428e6cbd715b35051ea874ae5a2",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 1.2288000000000001,
+        "distance": 512,
+        "liaison": "Paris - Lyon Part Dieu",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "b5155dba1911193f78d7d17d2ff78de89316dff5",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 1.5384,
+        "distance": 641,
+        "liaison": "Paris - Grenoble",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "b5f72f4358cfe0127cb8d98dc6e751a56d9d0c5e",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 1.5864,
+        "distance": 661,
+        "liaison": "Lille Europe - Poitiers",
+        "type_trajet": "Province/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "d8faa74cdee06619f33432b3a5f71ac54efe0c54",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 0.5256000000000001,
+        "distance": 219,
+        "liaison": "Paris - Lens",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "6417e41823200d604addcef646615558eca209e4",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 1.0032,
+        "distance": 418,
+        "liaison": "Lyon Part Dieu - Toulon",
+        "type_trajet": "Province/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "0082f4bde5623ff439d364ab724c97cd63269032",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 1.1448,
+        "distance": 477,
+        "liaison": "Paris - Bourg en Bresse",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "6478974d862debd291476ee090c58ede2e4105be",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 1.5888,
+        "distance": 662,
+        "liaison": "Paris - Montélimar",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "5e82f3b4d6f7dc10928169532bd8c18af1c0a52b",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 0.72,
+        "distance": 300,
+        "liaison": "Paris - Châtellerault",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "b3c18553374fdaf3171b13d68c7a1a5bebcd3244",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 0.5064000000000001,
+        "distance": 211,
+        "liaison": "Paris - Le Mans",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "18df3976b7997b488038e8914d4277ee41a9bf08",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 0.8976000000000001,
+        "distance": 374,
+        "liaison": "Paris - Rennes",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "47313be853ea8c1c937a6c3f8269d6f62e545092",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 0.9888,
+        "distance": 412,
+        "liaison": "Paris - Niort",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "0e09cd4ab7a598a59a127623f7bf333c7815d11c",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 0.7944,
+        "distance": 331,
+        "liaison": "Lorraine TGV - Aéroport CDG2 TGV",
+        "type_trajet": "Province/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "4f487bc47bf943295bc5133a952ffe5bf892c671",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 0.8448,
+        "distance": 352,
+        "liaison": "Paris - Nancy",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "f256bfb49e2f08b3d64c4bae4c043b72d2850a70",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 1.068,
+        "distance": 445,
+        "liaison": "Paris - Angoulême",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "89b106c4e3eac5cb26d84b014eb91357085a41ea",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 1.0704,
+        "distance": 446,
+        "liaison": "Paris - Surgères",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "da589ac145c8978680764c862b56c26bd6c93215",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 1.2432,
+        "distance": 518,
+        "liaison": "Lyon Part Dieu - Massy TGV",
+        "type_trajet": "Province/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "17796ec821f8843eef24e779149537744f859fd4",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 1.7976,
+        "distance": 749,
+        "liaison": "Lorraine TGV - Rennes",
+        "type_trajet": "Province/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "87382135e7989fc0bc23b2d7edca1d3f51cf0bbc",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 0.6024,
+        "distance": 251,
+        "liaison": "Paris - Valenciennes",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "59f28492676e1ff6ceb9aa3654fea4d78095115f",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 0.4128,
+        "distance": 172,
+        "liaison": "Paris - Reims",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "6b1e9407174c731764b16c735fa1a4077000a149",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 1.3824,
+        "distance": 576,
+        "liaison": "Lyon Part Dieu - Nice Ville",
+        "type_trajet": "Province/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "334b547db75ea9d60125162617d30cab19bcab2d",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 1.1280000000000001,
+        "distance": 470,
+        "liaison": "Strasbourg - Lyon Part Dieu",
+        "type_trajet": "Province/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "c3c26a57d79de30aed525c61c4e0edfc601fd224",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 0.756,
+        "distance": 315,
+        "liaison": "Paris - Dijon",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "3d2bbd64d8f7a57d8b32fc6e610647f291dbed1e",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 1.248,
+        "distance": 520,
+        "liaison": "Paris - Auray",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "a0ebfcbbe6318339c12318fde1d4a0aec6c35c4d",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 2.232,
+        "distance": 930,
+        "liaison": "Paris - Toulon",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "7f6155f2b199dce8be55771a9e5561137bdb194a",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 1.2072,
+        "distance": 503,
+        "liaison": "Strasbourg - Aéroport CDG2 TGV",
+        "type_trajet": "Province/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "15e2b3e07c09320cfc50bce2770e8e7de0b843e7",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 1.4304000000000001,
+        "distance": 596,
+        "liaison": "Paris - Chambery",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "0f86b73a0358d8b1c969ec543eb0ccb4a75d3171",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 1.4904,
+        "distance": 621,
+        "liaison": "Paris - Quimper",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "d114588acb323e2efb2cf243759c7977287ca32b",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 1.4928,
+        "distance": 622,
+        "liaison": "Paris - Brest",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "8f6733d3eb75d5a2c37b0508c0f8fd9c922e94c9",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 1.9056000000000002,
+        "distance": 794,
+        "liaison": "Lille Europe - Lyon Part Dieu",
+        "type_trajet": "Province/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "25cdfe7b67e0514e041371a6d8c3e16cacba01fb",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 1.6656,
+        "distance": 694,
+        "liaison": "Paris - Bourg St Maurice",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "84591e5ee5f46e95ba3a6e3a77945ae2c01322e7",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 1.7808000000000002,
+        "distance": 742,
+        "liaison": "Paris - Avignon TGV",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "5d4aecfc21647bd8da1bbc79bb6e92dd46de5dca",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 0.6192000000000001,
+        "distance": 258,
+        "liaison": "Paris - Lille-Europe",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "8a4f7f6bbae1b75fb4a1f486c8c2880769bf66d8",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 1.5648,
+        "distance": 652,
+        "liaison": "Bordeaux - Aéroport CDG2 TGV",
+        "type_trajet": "Province/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "4db44cc28cd0606bec9bb79e48639f976d3d4768",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 1.2072,
+        "distance": 503,
+        "liaison": "Paris - Strasbourg",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "39ba28383395232cbade3c3a24043014150e3dad",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 1.4232,
+        "distance": 593,
+        "liaison": "Paris - Bellegarde",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "b7083b049a454dbabe77830d43fa04d13d117a2c",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 1.3512,
+        "distance": 563,
+        "liaison": "Paris - Morlaix",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "d07258e6468680c4a082d184cf245d853fa48446",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 1.056,
+        "distance": 440,
+        "liaison": "Paris - Mâcon Loché",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "ec64e5ed590084aab4a97090341f1f69a3802737",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 0.7968000000000001,
+        "distance": 332,
+        "liaison": "Paris - Poitiers",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "6e8afb8c92e919ae48190ac742cf9589a30a8b05",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 2.0184,
+        "distance": 841,
+        "liaison": "Paris - Montpellier",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "0fc4ac156da1a0b9017b011a492ec27448d62678",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 0.5640000000000001,
+        "distance": 235,
+        "liaison": "Paris - Tours (St Pierre des Corps)",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "2366296eed785ca7118e01f2d2866288514d89f5",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 1.2072,
+        "distance": 503,
+        "liaison": "Strasbourg - Marne la Vallée",
+        "type_trajet": "Province/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "19eb9c2801690e2885fe4a5271d0fe7f488122e1",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 0.7488,
+        "distance": 312,
+        "liaison": "Paris - Dunkerque",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "b068c1396526fdb164bc67a327c391821f3f704a",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 1.3296000000000001,
+        "distance": 554,
+        "liaison": "Paris - Lorient",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "79763d9b5dfc7cc2c94f9c0c69266762f4013330",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 1.7591999999999999,
+        "distance": 733,
+        "liaison": "Montpellier - Belfort Montbéliard TGV",
+        "type_trajet": "Province/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "354ea47359f4e0a3ffa892500d23927cf63d516c",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 1.6872,
+        "distance": 703,
+        "liaison": "Lille Europe - Rennes",
+        "type_trajet": "Province/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "4c58a67c23d89408616608af872ca31beb47bf39",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 1.7208,
+        "distance": 717,
+        "liaison": "Paris - Agen",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "50ee9f415bc12424fc78363c98dfe7429c81936b",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 0.8472000000000001,
+        "distance": 353,
+        "liaison": "Paris - Metz",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "24fc7b59917be297815ba8be2af1b0e4f5204dad",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 2.0112,
+        "distance": 838,
+        "liaison": "Paris - Toulouse",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "186805f8d8a53f49a2f88bd51c7be424692b5dd1",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 1.3512,
+        "distance": 563,
+        "liaison": "Lyon Part Dieu - Aéroport CDG2 TGV",
+        "type_trajet": "Province/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "bee5bdf597f7d6b35efe38c2f54457623dbc076f",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 0.7632,
+        "distance": 318,
+        "liaison": "Massy TGV - Poitiers",
+        "type_trajet": "Province/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "9a6c75153780832d8767ad6c0104e46a367ca2bc",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 1.3704,
+        "distance": 571,
+        "liaison": "Paris - Saint Etienne",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "6ed180885e26a57f4a2f4861fa0c16bab5a6aeb8",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 2.2944,
+        "distance": 956,
+        "liaison": "Bordeaux - Lorraine TGV",
+        "type_trajet": "Province/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "08e71dfc1638b83b162e3bbd642f2cddf2b9d488",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 1.104,
+        "distance": 460,
+        "liaison": "Paris - Saint Nazaire",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "9537617b7830faf1db360b87bf05223f5296185d",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 0.9744,
+        "distance": 406,
+        "liaison": "Paris - Besançon Viotte",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "d9cb37e6c51cfbaf87e1ab3921e30a9dad0f8341",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 0.624,
+        "distance": 260,
+        "liaison": "Paris - Charleville Mézières",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "f7e9de5ab0bbf61ad45c178c396e4c4d1cb3b7a8",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 1.3056,
+        "distance": 544,
+        "liaison": "Paris - Libourne",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "7ca985731266352a6f9e2ad3467800b6fe3cb8f7",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 2.1336,
+        "distance": 889,
+        "liaison": "Paris - Beziers",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "a7d8ccc26d81af61db264b1fe2da37ea764aad67",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 2.5632,
+        "distance": 1068,
+        "liaison": "Paris - Antibes",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "e50463c673d5f5142bfab075ab86f144221aa364",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 2.9688,
+        "distance": 1237,
+        "liaison": "Marseille - Rennes",
+        "type_trajet": "Province/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "224accf63b6de047dd9ee98f16f9043b914f8dd9",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 0.7224,
+        "distance": 301,
+        "liaison": "Paris - Laval",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "1f584c6bb6ede199425e9c17d55ac1f7da03dfd7",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 1.092,
+        "distance": 455,
+        "liaison": "Paris - Saint Malo",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "643852397f4bb1c0cf7c9ed4cd20e21cab355be8",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 1.6176,
+        "distance": 674,
+        "liaison": "Paris - Moutiers Salins",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "f7a55d80c20269588bd3779702159bc70815dceb",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 1.8984,
+        "distance": 791,
+        "liaison": "Paris - Nîmes",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "d2f8671aac4daf6ee78ce9dcea3133a8aabfb47a",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 1.56,
+        "distance": 650,
+        "liaison": "Lyon Part Dieu - Nantes",
+        "type_trajet": "Province/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "5f7bb73fdf2a2469331e1b997c6f157d9e6d2c79",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 2.1192,
+        "distance": 883,
+        "liaison": "Lille Europe - Lorient",
+        "type_trajet": "Province/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "36c7d48e39fc0bb8fc7a9d9d711105a64964d840",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 2.5368,
+        "distance": 1057,
+        "liaison": "Paris - Cannes",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "09b75a157320db871c9c65df3aa7966a6385fab7",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 1.512,
+        "distance": 630,
+        "liaison": "Marseille - Besançon Franche Comté TGV",
+        "type_trajet": "Province/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "240c296c11e287425362649b4fc8b3a33126f539",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 1.74,
+        "distance": 725,
+        "liaison": "Lille Europe - Nantes",
+        "type_trajet": "Province/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "9cbc8ca35eeeec5f652097a5f4ee260db0604399",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 1.9272,
+        "distance": 803,
+        "liaison": "Paris - Saint Raphael",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "7c6adb7aa5cd8a2bc7aa43fb5e598da937889d16",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 1.896,
+        "distance": 790,
+        "liaison": "Paris - Biarritz",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "87915f4081210c7e820313b452a06e2efc0dcddf",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 0.9192,
+        "distance": 383,
+        "liaison": "Paris - Thionville",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "e00426cf1ac3fcb9a3c1f6056ddaf7a413650e45",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 2.6952,
+        "distance": 1123,
+        "liaison": "Lille Europe - Montpellier",
+        "type_trajet": "Province/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "d5b953357143e18ebbf608c3befe85fa50d27291",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 2.4024,
+        "distance": 1001,
+        "liaison": "Paris - Perpignan",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "7eb71c01e0f3e5c9c1a7da8ae3a3c1307f7432c1",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 1.4808,
+        "distance": 617,
+        "liaison": "Paris - Valence TGV",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "f729aa32f3ddee02cc09e7d4bdff167d9c137cbd",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 1.9584000000000001,
+        "distance": 816,
+        "liaison": "Paris - Hendaye",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "d65fe21499e999696553c8b8cd43e35a1a969a6f",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 2.1336,
+        "distance": 889,
+        "liaison": "Strasbourg - Nantes",
+        "type_trajet": "Province/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "b5bfc2c1bcd85816b53a3b0b2a0843daf8dbb2e6",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 2.6112,
+        "distance": 1088,
+        "liaison": "Paris - Nice",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "7f3ae2945233c41662c0db561c24e96eeb30ee48",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 0.4776,
+        "distance": 199,
+        "liaison": "Paris - Arras",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "b7596677dbc48f74329a07c15b803edbc3fd3c9f",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 1.3824,
+        "distance": 576,
+        "liaison": "Lyon Part Dieu - Toulouse",
+        "type_trajet": "Province/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "99d862ff867ccf2155e088e02f50a424966069e0",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 1.4616,
+        "distance": 609,
+        "liaison": "Paris - Mulhouse",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "4a82c230affb01302894c2e266bca10c5a399b40",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 0.9504,
+        "distance": 396,
+        "liaison": "Paris - Nantes",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "f20ccc32a5e4795b32eaaff1b29d796a8b3354f6",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 1.1400000000000001,
+        "distance": 475,
+        "liaison": "Paris - Saint Brieuc",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "358e825c8e1c746a184faf5437afa91fa54bc7b2",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 1.2024,
+        "distance": 501,
+        "liaison": "Paris - Vannes",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "8aed04ab97c7cb37ddc0c6cccbd83c65d3262b8d",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 1.7496,
+        "distance": 729,
+        "liaison": "Paris - Dax",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "03ebce4f8c85aec7e58e930fd73e11f45376392c",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 1.8072,
+        "distance": 753,
+        "liaison": "Bordeaux - Champagne Ardenne",
+        "type_trajet": "Province/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "4d35031f175d0498ab3dbfa977d8cd2dbc5df107",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 2.0712,
+        "distance": 863,
+        "liaison": "Paris - Marseille",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "3264c74003b6504ebb23603f525dc9452c413d53",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 2.112,
+        "distance": 880,
+        "liaison": "Montpellier - Nantes",
+        "type_trajet": "Province/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "94bc0ebbeeba5369c4b7161276dae89c0eeff2b2",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 1.7184,
+        "distance": 716,
+        "liaison": "Lyon Part Dieu - Rennes",
+        "type_trajet": "Province/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "6b47674ec44e840f9baeb83cd088c500a5345227",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 2.0472,
+        "distance": 853,
+        "liaison": "Paris - Lourdes",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "40bd4af4f256690aed824dc7793ccad003057183",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 1.9536,
+        "distance": 814,
+        "liaison": "Paris - Pau",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "3031c988ed3967d6da3d1ff6d12a183af2cef4ff",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 0.7392000000000001,
+        "distance": 308,
+        "liaison": "Paris - Anger St Laud",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "84fa6cc0374a27685f1ede10e46a645e77c33f75",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 1.3632,
+        "distance": 568,
+        "liaison": "Paris - Colmar",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "3baca1812bf6ff3961c2f7db1e11803ff48a754e",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 1.4904,
+        "distance": 621,
+        "liaison": "Paris - Annecy",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "87d350c9c601ef1459ecbb3adb9220bf7dfc390f",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 0.8664000000000001,
+        "distance": 361,
+        "liaison": "Paris - Dole",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "f32c5c67593529c1d877354a3456873ac7e8df7d",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 2.7312000000000003,
+        "distance": 1138,
+        "liaison": "Lille Europe - Marseille",
+        "type_trajet": "Province/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "b7352f913e368b95a59c9822a702add0e7db9a04",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 1.3464,
+        "distance": 561,
+        "liaison": "Lille Europe - Saint Pierre des Corps",
+        "type_trajet": "Province/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "3f75276283b563d6fb68a99cea75431636f683ec",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 1.3968,
+        "distance": 582,
+        "liaison": "Paris - Aix Les Bains",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "433d5505764927c41dd7964eea4c7d79a88c977d",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 2.0712,
+        "distance": 863,
+        "liaison": "Paris - Aix",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "1a8a88431425aa30ee855c47c657ac030a884c11",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 1.0488,
+        "distance": 437,
+        "liaison": "Dijon Ville - Avignon TGV",
+        "type_trajet": "Province/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "76721bd53261e3847ae182f0d1db312c0bdd4a5e",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 1.8719999999999999,
+        "distance": 780,
+        "liaison": "Paris - Bayonne",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "1cf8caff4801c5027ad5ee1e9b2e938cb43204ea",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 2.0712,
+        "distance": 863,
+        "liaison": "Paris - Narbonne",
+        "type_trajet": "Paris/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    },
+    {
+      "datasetid": "emission-co2-tgv",
+      "recordid": "427127d3a5e304bf97f8f37db587d65dd1c21d68",
+      "fields": {
+        "tgv_empreinte_co2e_kgco2e_voyageur": 2.184,
+        "distance": 910,
+        "liaison": "Bordeaux - Lille Europe",
+        "type_trajet": "Province/Province"
+      },
+      "record_timestamp": "2019-01-15T11:57:24.969+01:00"
+    }
+  ]
