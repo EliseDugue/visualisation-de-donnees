@@ -1,0 +1,53 @@
+/////////////////////////////////////////
+OBJECTIF : Que souhaitez-vous mettre en évidence ?
+(ex: visualiser sur une carte les départements en tension dans le cadre du covid19 
+présentant avec une couleur foncée les départements ayant peu de lits en réanimation 
+par rapport au nombre de cas détectés)
+
+Je souhaite visualiser avec un histogramme la quantité de CO2 émise par voyageur pour un trajet en train et comparer avec la quantité de CO2 émise pour une voiture diesel moyenne pour le même trajet.
+
+/////////////////////////////////////////
+EXTRACTION : indiquez vos sources, les api, les commandes utilisées ou les formules 
+sous Excel (suppression d'une colonne, changement du format des dates...)
+
+Les données utilisées pour l'émission de CO2 en train se trouvent ici : 
+https://data.sncf.com/explore/dataset/emission-co2-tgv/export/
+
+Les sources utilisées pour le calcul de l'émission de CO2 en voiture se trouvent ici :
+https://ecoscore.be/fr/info/ecoscore/co2
+https://fr.statista.com/statistiques/486554/consommation-de-carburant-moyenne-voiture-france/
+
+Pour mettre en forme et explorer le fichier JSON :
+https://codebeautify.org/jsonviewer
+
+Je n'ai pas utilisé Excel ni de lignes de commandes.
+
+
+/////////////////////////////////////////
+TRAITEMENT : indiquez les api, lignes de commandes utilisées ou les formules sous Excel 
+(récupération des coordonnées gps à partir de l'adresse ip, calcul du nombre 
+d'occurrences...) 
+
+J'ai utilisé la fonction getJSON de JQuery : https://api.jquery.com/jQuery.getJSON/
+
+Et j'ai utilisé ce tutoriel pour bien comprendre le fonctionnement : 
+https://www.sitepoint.com/ajaxjquery-getjson-simple-example/
+
+
+/////////////////////////////////////////
+VISUALISATION : indiquez le site qui vous a servi d'exemple en D3JS, leaflet ou autre 
+(exemple du cours ou web) quelles sont les principales modifications que vous avez dû 
+faire ?
+
+J'ai utilisé Google Charts pour réaliser mon histogramme :
+https://developers.google.com/chart/interactive/docs/quick_start
+
+J'ai modifié principalement les différentes options pour adapter mon histogramme à mes 
+données.
+
+/////////////////////////////////////////
+
+J'ai essayé de créer une fonction pour trier mes données dans l'ordre croissant mais
+je n'ai pas pu aboutir à un résultat donc elle n'apparaît pas dans le code. :(
+
+Une vidéo à regarder : https://youtu.be/pKO9UjSeLew
