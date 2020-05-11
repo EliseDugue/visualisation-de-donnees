@@ -1,7 +1,8 @@
 # Visualisation de données
 
-Exercice de visulalisation de données réalisé avec Javascript, JQuery et Google Charts.
+Exercice de visualisation de données réalisé avec Javascript, JQuery et Google Charts.
 Le thème porte sur la comparaison d'émission de CO2 en train et en voiture sur les principales liaisons TGV.
+Le résultat ici : https://elisedugue.github.io/visualisation-de-donnees/
 
 Les données utilisées sont ici : https://data.sncf.com/explore/dataset/emission-co2-tgv/table/
 
