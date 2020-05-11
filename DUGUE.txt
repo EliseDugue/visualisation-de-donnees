@@ -46,8 +46,3 @@ J'ai modifié principalement les différentes options pour adapter mon histogram
 données.
 
 /////////////////////////////////////////
-
-J'ai essayé de créer une fonction pour trier mes données dans l'ordre croissant mais
-je n'ai pas pu aboutir à un résultat donc elle n'apparaît pas dans le code. :(
-
-Une vidéo à regarder : https://youtu.be/pKO9UjSeLew
